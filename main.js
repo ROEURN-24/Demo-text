@@ -30,3 +30,6 @@ gallery.querySelectorAll('.gallery-item').forEach(function (item) {
         item.classList.toggle('full');        
     });
 });
+
+console.log('hi')
+
